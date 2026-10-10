@@ -1,4 +1,4 @@
-<a href="https://kasiawalter.it"><img src="https://kasiawalter.it/og-cover.jpg" alt="Resonance Chamber — a glowing core with pale veins growing out of the dark" width="100%"></a>
+<a href="https://kasiawalter.it"><img src="https://raw.githubusercontent.com/WhiteLupi/Resonance-Chamber/main/.github/hero.gif" alt="Resonance Chamber: holding the core, pale veins grow out of the dark until it wakes" width="100%"></a>
 
 ### Kasia Walter
 
@@ -9,9 +9,9 @@ I build interfaces that are meant to be felt, not only used.
 WebGL veins grown in shaders, a camera that travels through the page, a frame guard that keeps phones smooth.
 
 **[running-cat](https://github.com/WhiteLupi/running-cat)** 🐈‍⬛: a Claude Code plugin that swaps the spinner for a kitten.
-It chases a mouse while Claude answers, types on a tiny laptop while a tool runs.
+It chases a mouse while Claude answers, types on a tiny laptop while a tool runs, and loafs, flicking its tail, while it waits.
 
-<a href="https://github.com/WhiteLupi/running-cat"><img src="https://raw.githubusercontent.com/WhiteLupi/running-cat/main/assets/kitten-mouse.png" alt="running-cat: a pixel kitten chasing a mouse" width="294"> <img src="https://raw.githubusercontent.com/WhiteLupi/running-cat/main/assets/kitten-laptop.png" alt="running-cat: a pixel kitten typing on a tiny laptop" width="281"></a>
+<a href="https://github.com/WhiteLupi/running-cat"><img src="https://raw.githubusercontent.com/WhiteLupi/running-cat/main/assets/kitten.svg" alt="running-cat: a pixel kitten chases a mouse, thinks, types on a tiny laptop, then loafs" width="544"></a>
 
 React · TypeScript · three.js · WebGL · Webflow
 
