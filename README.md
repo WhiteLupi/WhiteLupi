@@ -8,10 +8,11 @@ I build interfaces that are meant to be felt, not only used.
 **[Resonance Chamber](https://github.com/WhiteLupi/Resonance-Chamber)**: my site, one interactive piece.
 WebGL veins grown in shaders, a camera that travels through the page, a frame guard that keeps phones smooth.
 
-**[running-cat](https://github.com/WhiteLupi/running-cat)** 🐈‍⬛🦆: a Claude Code plugin that swaps the spinner for a kitten, or a rubber duck if you'd rather. The kitten chases a mouse while Claude answers, types on a tiny laptop while a tool runs, and loafs, flicking its tail, while it waits. The duck waddles and quacks, pecks at a laptop and at a worm, naps, and now and then makes a scene. `/running-cat duck` to switch.
+**[running-cat](https://github.com/WhiteLupi/running-cat)** running-cat 🐈‍⬛🦆🕷️: a Claude Code plugin that swaps the spinner for a kitten, a rubber duck, or a jumping spider. The kitten chases a mouse while Claude answers, types on a tiny laptop while a tool runs, and loafs, flicking its tail, while it waits. The duck waddles and quacks, pecks at a laptop and at a worm, naps, and now and then makes a scene. The spider leaps at a fly and always misses, stares at you while Claude thinks, types with one front leg, and now and then dances. `/running-cat duck` or `/running-cat spider` to switch.
 
 <img src="https://raw.githubusercontent.com/WhiteLupi/running-cat/main/assets/kitten.svg" alt="running-cat: a pixel kitten chases a mouse, thinks, types on a tiny laptop, then loafs" width="544">
 <img src="https://raw.githubusercontent.com/WhiteLupi/running-cat/main/assets/duck.svg" alt="running-cat duck: a pixel rubber duck waddles and quacks, pecks at a laptop and at a worm, and makes a scene" width="544">
+<img src="https://raw.githubusercontent.com/WhiteLupi/running-cat/main/assets/spider.svg" alt="running-cat spider: a pixel jumping spider leaps at a fly and misses, stares at you, types on a tiny laptop, and dances" width="544">
 
 React · TypeScript · three.js · WebGL · Webflow
 
